@@ -1,0 +1,12 @@
+.contenedor{
+    display: inline-block;
+    width: 50%;
+    height: 25%;
+    position: absolute;
+    
+}
+
+h1 {
+    background-color: yellow;
+    box-shadow: inset;
+}
